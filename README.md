@@ -1,2 +1,3 @@
-# FreeBuds6i_Assistant
-Приложение для удобного управления HUAWEI Freebuds 6i | App for convenient control of HUAWEI Freebuds 6i
+# Приложение для удобного управления HUAWEI Freebuds 6i
+
+Переработка https://github.com/TheLastGimbus/FreeBuddy для HUAWEI Freebuds 6i
